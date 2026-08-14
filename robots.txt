@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://haridas-bargire.github.io/BirdNet/sitemap.xml
