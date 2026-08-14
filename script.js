@@ -161,7 +161,7 @@ if (enquiryForm) {
 
     const message = `Hello OM Bird Netting Services,\n\nName: ${fullName}\nPhone: ${phoneNumber}\nService: ${service}\nArea: ${area || 'Not specified'}\nRequirement: ${requirement}\n\nI would like to get a quotation.`;
     const encodedMessage = encodeURIComponent(message);
-    const whatsappUrl = `https://wa.me/917499148475?text=${encodedMessage}`;
+    const whatsappUrl = `https://wa.me/918459586248?text=${encodedMessage}`;
 
     window.open(whatsappUrl, '_blank', 'noopener');
     enquiryForm.reset();

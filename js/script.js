@@ -58,7 +58,7 @@ if (enquiryForm) {
 
     const whatsappMessage = `Hello OM Bird Netting Services, I would like to enquire about ${service}. My name is ${name}. My phone number is ${phone}. Message: ${message}.`;
     const encodedMessage = encodeURIComponent(whatsappMessage);
-    const whatsappUrl = `https://wa.me/917499148475?text=${encodedMessage}`;
+    const whatsappUrl = `https://wa.me/918459586248?text=${encodedMessage}`;
 
     window.open(whatsappUrl, '_blank', 'noopener');
     enquiryForm.reset();
