@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-label="Mosquito net fitted to a window">
+  <rect width="900" height="700" fill="#eff6ff"/>
+  <rect x="170" y="120" width="560" height="440" rx="18" fill="#eef4fa" stroke="#b2cbe0" stroke-width="10"/>
+  <g stroke="#a3c2d9" stroke-width="7" fill="none">
+    <line x1="260" y1="150" x2="260" y2="520"/>
+    <line x1="350" y1="150" x2="350" y2="520"/>
+    <line x1="440" y1="150" x2="440" y2="520"/>
+    <line x1="530" y1="150" x2="530" y2="520"/>
+    <line x1="620" y1="150" x2="620" y2="520"/>
+    <line x1="200" y1="220" x2="680" y2="220"/>
+    <line x1="200" y1="310" x2="680" y2="310"/>
+    <line x1="200" y1="400" x2="680" y2="400"/>
+    <line x1="200" y1="490" x2="680" y2="490"/>
+  </g>
+  <g stroke="#91d58f" stroke-width="4" opacity="0.85">
+    <line x1="200" y1="150" x2="680" y2="520"/>
+    <line x1="200" y1="220" x2="680" y2="490"/>
+    <line x1="200" y1="310" x2="680" y2="400"/>
+    <line x1="200" y1="400" x2="680" y2="310"/>
+    <line x1="200" y1="490" x2="680" y2="220"/>
+  </g>
+  <g fill="#9ec7d8" opacity="0.8">
+    <rect x="190" y="110" width="520" height="25" rx="8"/>
+  </g>
+</svg>

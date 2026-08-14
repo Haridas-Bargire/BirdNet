@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-label="Pigeon spikes installation on ledge">
+  <rect width="900" height="700" fill="#eef3f8"/>
+  <rect x="110" y="180" width="680" height="260" rx="20" fill="#dfe7ef"/>
+  <g fill="#d9e5ef" stroke="#7e8fa5" stroke-width="4">
+    <rect x="120" y="180" width="660" height="220" rx="18"/>
+  </g>
+  <g fill="#f3f8ff" stroke="#a8b8c9" stroke-width="2">
+    <path d="M160 390l20-80 20 80z"/>
+    <path d="M220 390l20-80 20 80z"/>
+    <path d="M280 390l20-80 20 80z"/>
+    <path d="M340 390l20-80 20 80z"/>
+    <path d="M400 390l20-80 20 80z"/>
+    <path d="M460 390l20-80 20 80z"/>
+    <path d="M520 390l20-80 20 80z"/>
+    <path d="M580 390l20-80 20 80z"/>
+    <path d="M640 390l20-80 20 80z"/>
+  </g>
+  <g fill="#b3c4d5" stroke="#7e8fa5" stroke-width="2">
+    <rect x="140" y="420" width="620" height="16" rx="4"/>
+  </g>
+  <g fill="#7d8ea6" opacity="0.7">
+    <rect x="140" y="155" width="620" height="18" rx="6"/>
+  </g>
+</svg>

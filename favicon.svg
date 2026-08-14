@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="OM Bird Netting Services favicon">
+  <defs>
+    <linearGradient id="bg1" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#0d1b2a" />
+      <stop offset="100%" stop-color="#1356d7" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#bg1)" />
+  <path d="M36 93V35h18l18 24V35h18v58H72L54 69v24H36Z" fill="#ffffff" />
+  <circle cx="96" cy="39" r="12" fill="#ff8f1f" />
+</svg>

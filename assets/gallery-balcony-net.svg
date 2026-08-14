@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-label="Balcony bird netting installation">
+  <rect width="900" height="700" fill="#ebf3fe"/>
+  <rect x="120" y="180" width="660" height="360" rx="26" fill="#dfeaf5"/>
+  <g stroke="#627d96" stroke-width="10" fill="none">
+    <line x1="170" y1="210" x2="170" y2="500"/>
+    <line x1="290" y1="210" x2="290" y2="500"/>
+    <line x1="410" y1="210" x2="410" y2="500"/>
+    <line x1="530" y1="210" x2="530" y2="500"/>
+    <line x1="650" y1="210" x2="650" y2="500"/>
+    <line x1="170" y1="210" x2="650" y2="210"/>
+    <line x1="170" y1="300" x2="650" y2="300"/>
+    <line x1="170" y1="390" x2="650" y2="390"/>
+    <line x1="170" y1="480" x2="650" y2="480"/>
+  </g>
+  <g stroke="#a9dca5" stroke-width="7" opacity="0.9">
+    <line x1="170" y1="210" x2="650" y2="500"/>
+    <line x1="170" y1="300" x2="650" y2="390"/>
+    <line x1="170" y1="390" x2="650" y2="300"/>
+    <line x1="170" y1="480" x2="650" y2="210"/>
+  </g>
+  <g fill="#84c56f" stroke="#5a9b5e" stroke-width="4">
+    <path d="M660 455c-12-36 3-72 36-88 23-11 47-10 63 6 21 20 23 58 6 82-19 27-51 36-79 23-9-4-18-12-26-23z"/>
+    <path d="M560 605h150c9 0 16 7 16 16v8H544v-8c0-9 7-16 16-16z"/>
+  </g>
+</svg>
